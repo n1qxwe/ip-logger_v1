@@ -1,2 +1,2 @@
 # ip-logger_v1
-Usage: 
+Usage: https://pastebin.com/raw/tUHaP0MP
